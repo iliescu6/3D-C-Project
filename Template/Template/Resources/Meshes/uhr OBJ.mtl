@@ -1,0 +1,85 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 14.07.2011 23:04:06
+
+newmtl wall
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.184314 0.184314 0.184314
+	Kd 0.874510 0.874510 0.874510
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_bump -bm 0.150000 Map__4_Noise.tga
+
+newmtl wire_138008110
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.541176 0.031373 0.431373
+	Kd 0.541176 0.031373 0.431373
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_224198087
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.878431 0.776471 0.341176
+	Kd 0.878431 0.776471 0.341176
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_148177026
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.580392 0.694118 0.101961
+	Kd 0.580392 0.694118 0.101961
+	Ks 0.350000 0.350000 0.350000
+
+newmtl 2___Default
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.921569 0.921569 0.921569
+	Kd 0.972549 0.972549 0.972549
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\Bilder\TEXTURES\spezifische\Ziffernblatt.jpg
+	map_Kd E:\Bilder\TEXTURES\spezifische\Ziffernblatt.jpg
+	map_bump E:\Bilder\TEXTURES\spezifische\Ziffernblatt.jpg
+	bump E:\Bilder\TEXTURES\spezifische\Ziffernblatt.jpg
+
+newmtl brass_FAKE
+	Ns 70.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.372549 0.247059 0.133333
+	Kd 0.372549 0.247059 0.133333
+	Ks 0.900000 0.900000 0.900000
+	Ke 0.000000 0.000000 0.000000
+	map_bump -bm 0.050000 Map__18_Dent.tga
+	map_refl C:\Program Files\Autodesk\3ds Max Design 2011\maps\Reflection\REFMAP.GIF
+
+newmtl wire_225088199
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.882353 0.345098 0.780392
+	Kd 0.882353 0.345098 0.780392
+	Ks 0.350000 0.350000 0.350000
